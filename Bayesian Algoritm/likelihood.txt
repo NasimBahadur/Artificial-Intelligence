@@ -1,0 +1,4 @@
+big dog 0.692308
+small dog 0.307692
+big cat 0.333333
+small cat 0.666667
