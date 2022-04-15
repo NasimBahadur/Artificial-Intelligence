@@ -1,0 +1,2 @@
+1. Write a program that takes a directed unweighted graph as input. Now apply dept limit search algorithm to ensure whether the goal node is found in that depth or not. Starting node, goal node and limit is also given as input.
+2. Convert the code in question 1 to iterative deepening search.
