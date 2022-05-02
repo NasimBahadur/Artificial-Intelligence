@@ -58,7 +58,7 @@ void Selection()
     // selection of new chromosomes
     for(int i=0; i<6; i++)
     {
-        //i number in which range that value will set in the newdvalue of new chromosomes
+        //i number in which range that value will set in the newdvalue for new chromosome
         if(R[i] >= 0 && R[i] <= dvalue[0].cum_prob)
             newdvalue[i] = dvalue[0];
         else if(R[i] > dvalue[0].cum_prob && R[i] <= dvalue[1].cum_prob)
